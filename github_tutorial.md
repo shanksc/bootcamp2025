@@ -112,7 +112,7 @@ git commit -m "Message about commit"
 git push 
 ```
 
-Now that we have created a new file we can do the same process of adding, committing, and pushing it. You can check that state of your working directory with `git status`, which will show that your local repo is 1 commit ahead of your github repo.
+Now that we have created a new file we can do the same process of adding, committing, and pushing it. You can check the state of your working directory with `git status`, which will show that your local repo is 1 commit ahead of your github repo.
 
 ```
 git add Bashtricks.md
